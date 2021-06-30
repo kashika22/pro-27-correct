@@ -109,14 +109,6 @@ function draw() {
   bobObject4.display();
   bobObject5.display();
  
-  
-  
-	
-  
- 
-  
-  
- 
 }
 
 function keyPressed() {
